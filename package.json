@@ -1,0 +1,22 @@
+{
+  "name": "jsondb",
+  "version": "1.0.0",
+  "description": "Create databases using JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomelewis2007/JSONdb.git"
+  },
+  "author": "Lewis Evans",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/awesomelewis2007/JSONdb/issues"
+  },
+  "homepage": "https://github.com/awesomelewis2007/JSONdb#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
