@@ -6,8 +6,8 @@
 
 const JSONdb = require('../lib/index.js');
 
-const db = new JSONdb();
-if (!db.exists('test/test.json')) {
-    db.init('test/test.json', 'test', 'test');
+const db = new JSONdb('test/test.json');
+if (!db.exists()) {
+    db.init('test', 'test');
 }
-db.append('test/test.json', ["apples", "oranges", "bananas"]);
+db.append(["apples", "oranges", "bananas"]);
