@@ -1,8 +1,8 @@
 {
-  "name": "jsondb",
+  "name": "@awesomelewis2007/jsondb",
   "version": "1.0.0",
   "description": "Create databases using JSON",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "node test/test.js"
   },
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/awesomelewis2007/JSONdb#readme",
   "dependencies": {
     "colors": "^1.4.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }

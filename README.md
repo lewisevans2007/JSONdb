@@ -5,7 +5,7 @@ Create databases using JSON
 ## Usage
 
 ```js
-const JSONdb = require('jsondb');
+const JSONdb = require('@awesomelewis2007/jsondb');
 
 const db = new JSONdb('example.json');
 
