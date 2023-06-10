@@ -1,6 +1,6 @@
 {
   "name": "@awesomelewis2007/jsondb",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Create databases using JSON",
   "main": "lib/index.js",
   "scripts": {
