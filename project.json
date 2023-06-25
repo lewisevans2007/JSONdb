@@ -1,0 +1,15 @@
+{
+    "name": "JSONdb",
+    "description": "Create databases using JSON",
+    "version": "",
+    "main_file": "lib/index.js",
+    "author": "Lewis Evans",
+    "license": "none",
+    "url": "https://www.github.com/awesomelewis2007/JSONdb",
+    "email": "none",
+    "languages": [
+        "javascript",
+        "typescript"
+    ],
+    "actions": {}
+}
