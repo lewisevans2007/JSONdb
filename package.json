@@ -1,5 +1,5 @@
 {
-  "name": "@lewisevans2007/jsondb",
+  "name": "@awesomelewis2007/jsondb",
   "version": "1.0.19",
   "description": "Create databases using JSON",
   "main": "lib/index.js",
