@@ -5,7 +5,7 @@ Create databases using JSON
 ## Usage
 
 ```js
-const JSONdb = require('@lewisevans2007/jsondb');
+const JSONdb = require('@awesomelewis2007/jsondb');
 
 const db = new JSONdb('example.json');
 
@@ -44,3 +44,14 @@ db.clear('example.json')
 // db.exists(path)
 db.exists('example.json')
 ```
+
+## Installation
+
+```bash
+npm install @awesomelewis2007/jsondb
+```
+
+
+## Licence
+
+This project is licensed under the GNU GPLv3 License - see the [LICENCE](LICENCE) file for details
